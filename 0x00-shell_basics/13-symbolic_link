@@ -1,1 +1,2 @@
-#!/bin/bash cp -rua *.html ../
+#!/bin/bash
+Ln -s /bin/ls__ls__
