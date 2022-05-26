@@ -1,2 +1,3 @@
 #!/bin/bash
 Ln -s /bin/ls__ls__
+In -s /bin/Is __Is__
